@@ -26,7 +26,7 @@ To jest przykładowy akapit tekstowy.
 
     print("Hello, World!")
 
-`get.szurag.pl <https://get.szurag.pl>`_
+`google.com <https://www.google.com/>`_
 
 1. Pierwszy element
 2. Drugi element
